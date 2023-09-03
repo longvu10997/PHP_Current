@@ -1,0 +1,19 @@
+.container {
+    position: relative;
+    top: 30px;
+    left: 50px;
+}
+.container tfoot {
+    text-align: center;
+}
+.container table {
+    border: 1px solid #DDD;
+    width: 300px;
+    text-align: center;
+    background-color: beige;
+    border-spacing: 20px;
+}
+#background {
+    width: 100%;
+    min-height: 100vh;
+}
